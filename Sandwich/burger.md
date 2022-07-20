@@ -4,4 +4,3 @@ Tomate
 Cornichon
 Fromage
 Oingons
-Pain
