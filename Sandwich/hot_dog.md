@@ -1,0 +1,4 @@
+knacki
+ketchup
+pain
+mayonnaise
